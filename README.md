@@ -9,3 +9,6 @@ Each LED has its own branch with:
 When the switch closes, the different resistor values create different delays that make the LEDs turn on at slightly different times, making a sequential lighting effect.
 
 ![Video Demonstration](./videoDemo.gif)
+
+[Circuit Link](https://is.gd/ALEma1)
+[Creation Timelapse](https://lapse.hackclub.com/timelapse/xs-Jnk1l5hQU)
